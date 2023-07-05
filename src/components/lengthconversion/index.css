@@ -1,0 +1,9 @@
+.length-container {
+  background-color: darkgrey;
+  height: 60vh;
+  width: 50vw;
+  text-align: center;
+}
+.length-heading {
+  margin-left: 10vh;
+}

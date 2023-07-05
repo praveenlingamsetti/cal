@@ -1,0 +1,9 @@
+.mass-container {
+  background-color: darkgrey;
+  height: 60vh;
+  width: 50vw;
+  text-align: center;
+}
+.mass-heading {
+  margin-left: 10vh;
+}

@@ -1,0 +1,17 @@
+.energy-container {
+  background-color: darkgrey;
+  height: 60vh;
+  width: 50vw;
+  text-align: center;
+}
+.energy-heading {
+  margin-left: 10vh;
+}
+.each-btn {
+  width: 90px;
+  margin: 2px;
+}
+.btn-container {
+  width: 310px;
+  margin-left: 80px;
+}
